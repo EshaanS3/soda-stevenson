@@ -9,7 +9,7 @@ export default function ContactPage() {
       </p>
       <div className="max-w-xl mx-auto">
         <p className="mb-4 text-gray-600">
-          Faculty Advisor: placeholder (<a href="mailto:placeholder@stevenson.edu" className="text-blue-600 hover:underline">placeholder@stevenson.edu</a>)
+          Faculty Advisor: rhea poo (<a href="mailto:placeholder@stevenson.edu" className="text-blue-600 hover:underline">placeholder@stevenson.edu</a>)
         </p>
         <ContactForm />
       </div>
